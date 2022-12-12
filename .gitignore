@@ -4,5 +4,5 @@
 #tf state files
 *.tfstate
 *.tfstate.*
-#*.tfvars
+*.tfvars
 # variables files, may include sentitive
